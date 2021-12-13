@@ -17,7 +17,7 @@
 
 
 ## General Information
-- Application based on Django for making notes. Basically, it record your progress and helps you see what you have achevied.
+- An application based on Django for making notes. It records your progress and helps you see what you have achieved.
 - The main purpouse for coding it was learn how to build Django app.
 - I undertake it because I wanted to learn more about Django.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
