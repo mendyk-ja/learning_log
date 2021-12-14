@@ -93,12 +93,12 @@ To do:
 ## Acknowledgements
 - This project was inspired by Eric Matthes
 - This project was based on [Python Crash Course, 2nd Edition by Eric Matthes](https://nostarch.com/pythoncrashcourse2e).
-- Many thanks to...
 <!--
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
 -->
 
 
